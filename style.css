@@ -22,7 +22,7 @@ h3 .proj{
     color: black ;
 }
 h2 {
-    font-size: 1.5em;
+    font-size: 1.6em;
     padding-bottom: 1em;
 }
 
@@ -60,7 +60,13 @@ hr {
     background-color: lightgray;
     height: 1px;
 }
-
+.skills{
+    font-size: 1em;
+}
+.skills ul li{ 
+    padding: 4px;
+    list-style:square;
+}
 h1, h2, h3 {
     font-weight: 100;
     margin-bottom: 0;
